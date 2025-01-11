@@ -1,0 +1,27 @@
+﻿  v1.5.cpp
+C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(8,16): error C2131: 表达式的计算结果不是常数
+      C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(8,16):
+      因读取超过生命周期的变量而失败
+      C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(8,16):
+      请参见“d”的用法
+  
+C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(8,22): error C2131: 表达式的计算结果不是常数
+      C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(8,22):
+      因读取超过生命周期的变量而失败
+      C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(8,22):
+      请参见“d”的用法
+  
+C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(8,28): error C2131: 表达式的计算结果不是常数
+      C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(8,28):
+      因读取超过生命周期的变量而失败
+      C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(8,28):
+      请参见“d”的用法
+  
+C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(17,7): warning C4552: ”>>“: 未使用表达式结果
+C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(21,9): warning C4552: ”>>“: 未使用表达式结果
+C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(28,7): warning C4552: ”>>“: 未使用表达式结果
+C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(32,9): warning C4552: ”>>“: 未使用表达式结果
+C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(39,7): warning C4552: ”>>“: 未使用表达式结果
+C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(43,9): warning C4552: ”>>“: 未使用表达式结果
+C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(52,104): warning C4552: ”<<“: 未使用表达式结果
+C:\Users\Lenovo\Desktop\JXC\code\Score-registration-diagnosis\v1.5\v1.5.cpp(53,55): warning C4552: ”<<“: 未使用表达式结果

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\JXC\\code\\Score-registration-diagnosis\\v1.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B53B9E69-C1A3-46BB-9BCB-0C4AF2AA3CB6}|v1.3.vcxproj|C:\\Users\\Lenovo\\Desktop\\JXC\\code\\Score-registration-diagnosis\\v1.3\\v1.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B53B9E69-C1A3-46BB-9BCB-0C4AF2AA3CB6}|v1.3.vcxproj|solutionrelative:v1.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "v1.3.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\JXC\\code\\Score-registration-diagnosis\\v1.3\\v1.3.cpp",
+              "RelativeDocumentMoniker": "v1.3.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\JXC\\code\\Score-registration-diagnosis\\v1.3\\v1.3.cpp*",
+              "RelativeToolTip": "v1.3.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T08:27:20.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
